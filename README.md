@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+Simple react app. Created to serve as a to do list. User should type tasks into the input field, and click submit. If you want to delete an entry, simply hover over the entry and click. Made with react components.
+
 ## Available Scripts
 
 In the project directory, you can run:
