@@ -3,8 +3,23 @@ body {
   background-color: lightblue;
   font-family: sans-serif;
 }
+#test {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 6px;
+  font-weight: bold;
+}
 
+#para {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 6px;
+}
 #container {
   display: flex;
-  justify-content: flex;
+  justify-content: center;
 }
